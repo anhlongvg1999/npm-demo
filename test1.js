@@ -1,3 +1,5 @@
-exports.test1 = function(){
+let test1 = () => {
     console.log('okkkkkkkkkkkkkkkkk')
 }
+
+export default {test1};
