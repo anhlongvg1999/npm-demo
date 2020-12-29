@@ -1,4 +1,2 @@
-exports.test = function()
-{
-    console.log('sucessssssssssssssss')
-}
+import test from './test'
+import test1 from '/test1'

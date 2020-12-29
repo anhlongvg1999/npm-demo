@@ -1,3 +1,5 @@
-exports.test1 = function(){
-    console.log('okkkkkkkkkkkkkkkkk')
+
+exports.test = function()
+{
+    console.log('sucessssssssssssssss')
 }
